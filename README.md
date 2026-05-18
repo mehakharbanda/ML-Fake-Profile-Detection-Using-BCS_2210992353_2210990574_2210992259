@@ -11,7 +11,7 @@ A full-stack machine learning system that detects fake social media profiles by 
 
 ## Deploy Link
 
-**https://ml-fake-profile-detection-using-bcs.onrender.com
+https://ml-fake-profile-detection-using-bcs.onrender.com
 
 ---
 ## Project Structure
